@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Some attributes and things.*
+_like stuff that overlord is requesting_
+**This is bold!**
+__Thank you overlord masters for teaching me__
